@@ -9,3 +9,6 @@ In order to achieve this, many organizations turn to infrastructure automation t
 We’ll explore how to use Terraform to deploy a high availability and fault-tolerant cloud environment on AWS, complete with an Auto Scaling Group (ASG) spanning two Availability Zones in private subnets of a custom VPC. 
 
 We’ll also look at how to front the ASG with an Application Load Balancer (ALB) placed in public subnets, with appropriate gateway and route table configurations.
+
+By the end, you’ll have a solid understanding of how to leverage Terraform to build a reliable and scalable cloud infrastructure that can handle high traffic loads and maintain uptime, even in the event of failures in individual components.
+
