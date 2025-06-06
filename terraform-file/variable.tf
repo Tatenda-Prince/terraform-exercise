@@ -15,7 +15,7 @@ variable "availability_zone-1" {
 }
 
 variable "availability_zone-2" {
-  default = "us-west-1b"
+  default = "us-west-1c"
   type    = string
 }
 
