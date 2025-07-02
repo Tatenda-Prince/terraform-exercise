@@ -33,4 +33,3 @@ Terraform is also cloud agnostic. This means it supports multiple cloud provider
 
 4.*Consistency*: Terraform ensures that the infrastructure deployed is consistent across all environments, making it easier to manage and maintain.
 
-Now let me give you some background information to understand the more specific components of Terraform.
